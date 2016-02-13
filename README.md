@@ -80,11 +80,11 @@ DOWN............................................................................
 
 1.NAME
 
-1.1 The organisation hereby constituted will be called Jozi-JUG
+1.1 The organisation hereby constituted will be called JUG-Africa
 
-1.2 Its shortened name will be to as the Jozi-JUG
+1.2 Its shortened name will be to as the JUG-Africa
 
-_(Hereinafter referred to as Jozi-JUG)
+_(Hereinafter referred to as JUG-Africa)
 
 
 
@@ -111,7 +111,7 @@ different office bearers.
 
 The organisation’s main objectives are to:
 
-The Jozi Java User Group is for those who are interested in physically meeting to discuss Java and related technologies.
+The JUG-Africa Java User Group is for those who are interested in physically meeting to discuss Java and related technologies.
 It will not make a profit.
 
 
@@ -124,7 +124,7 @@ It will not make a profit.
 ​b) The organisation’s secondary objectives will be to:
 
 
-Promote equality and diversity in the Jozi-JUG and industry.
+Promote equality and diversity in the JUG-Africa and industry.
 
 
  (e.g. To work in collaboration with other organisations that
@@ -152,7 +152,7 @@ soon as reasonably possible, appoint someone to fill any vacancy that
 reduced the number of Office Bearers.
 
 4.4 Resignation:An Office Bearer may resign from office in writing to 
-jozijug-committee@googlegroups.com and give 30 days notice.
+users@jug-africa.java.net and give 30 days notice.
 
 4.5 Disqualification
 orRemovalIf an Office Bearer does not attend
