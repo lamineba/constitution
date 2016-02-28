@@ -109,28 +109,19 @@ different office bearers.
 
 3.OBJECTIVES
 
-The organisation’s main objectives are to:
+The organisation’s main objectives are:
 
-The JUG-Africa Java User Group is for those who are interested in physically meeting to discuss Java and related technologies.
+To support JUG leaders of Africa in collaborating among one another
+
+To provide technical and financial ressources for JUG leaders of Africa including :
+   - conference access and travel support
+   - public speaking opportunities
+
+To promote JUG membership
+
+To build relationships between business interests and JUG communities
+
 It will not make a profit.
-
-
- (e.g.Provide community services)
-
-
-
-
-
-​b) The organisation’s secondary objectives will be to:
-
-
-Promote equality and diversity in the JUG-Africa and industry.
-
-
- (e.g. To work in collaboration with other organisations that
-mainly deals with food access to households.
-
-
 
 
 
@@ -141,11 +132,9 @@ will be made up of 4 members. They are the Board of governance of the
 organisation. This includes the chair person, a treasurer and two other office bearers.
 
 4.2 Termofoffice:Office
-bearers will serve for a period of 1 year which has been agreed to by 
+bearers will serve for a period of 6 months which has been agreed to by 
 the general membership at an AGM. They can, however, stand for
-re-election for another term in office again and again after that, for
-so long as their services are needed and they are ready to give their
-services.
+re-election for only another term in office.
 
 4.3 Vacancies: The Office Bearers must, as
 soon as reasonably possible, appoint someone to fill any vacancy that
@@ -177,7 +166,7 @@ decisions, which it believes it needs to make in order to achieve the
 objectives of the organisation as stated in point number 2 of this
 constitution. However, such decisions and their activities may not be
 against the resolutions of the members or be against the law of the
-Republic of South Africa.
+Republic of South Africa??? we need to decide if it shall be incorporated and where...
 
 5.3 The Board shall have the general powers and authority to:-
 
@@ -201,7 +190,6 @@ example
 sub-committee provided that:-
 
 5.5.1 such delegation and conditions are reflected in the minutes for a
-
 meeting
 
 5.5.2 at least one Office Bearer serves in the sub-committee.
@@ -235,9 +223,7 @@ achievements and work of over the year.
  Enable members to decide on the policies of the organisation.
 
 6.1.2 The annual general meeting must be held once every year, towards
-the
-
-end of the organisation’s financial year.
+the end of the organisation’s financial year.
 
 6.1.3 The organisation should deal with the following business, amongst
 others, at its annual general meeting:
@@ -269,7 +255,7 @@ arising.
 
 
 
-6.2Special General Meetings
+6.2 Special General Meetings
 
 6.2.1 The Special General Meeting (SGM) or any other special meeting is
 
@@ -387,7 +373,7 @@ present at the meeting shall elect a chairperson for that meeting.
 
 
 
-6.7Making decisions in meetings
+6.7 Making decisions in meetings
 
 6.4.13 Where possible, the decisions of the organisations shall be taken
 by
